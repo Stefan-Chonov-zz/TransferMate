@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<books>
+    <book>
+        <author>Isak Azimov</author>
+        <name>End of spirit</name>
+    </book>
+    <book>
+        <author>Ivan Ivanov</author>
+        <name>Start of spirit</name>
+    </book>
+    <book>
+        <author>Иван Иванов</author>
+        <name>Тест на кирилица</name>
+    </book>
+    <book>
+        <author>누구나 재미있게 한국어를</author>
+        <name>배울 수 있는 TTMIK</name>
+    </book>
+    <book>
+        <author>こんにちは 2</author>
+        <name>こんにちは</name>
+    </book>
+</books>

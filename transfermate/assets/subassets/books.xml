@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<books>
+    <book>
+        <author>Isak Azimov 2</author>
+        <name>End of spirit 2</name>
+    </book>
+    <book>
+        <author>Ivan Ivanov 2</author>
+        <name>Start of spirit 2</name>
+    </book>
+</books>

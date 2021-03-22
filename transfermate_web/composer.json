@@ -1,0 +1,19 @@
+{
+    "name": "transfermate/web",
+    "authors": [
+        {
+            "name": "Stefan Chonov",
+            "email": "stefan.chonov@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.3",
+        "psr/http-message": "^1.0",
+        "ext-pdo": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Transfermate\\Web\\": "src/"
+        }
+    }
+}
