@@ -9,21 +9,6 @@
 
 ### Installation
 
-```
-git clone https://github.com/Stefan-Chonov/TransferMate.git
-cd TransferMate
-cd transfermate
-composer install
-```
+Console app: https://github.com/Stefan-Chonov/TransferMate/tree/main/transfermate
 
-### Configs
-
-```
-- Environment configs are located in '.env' file in the path \TransferMate\transfermate\.env
-```
-
-### Run
-```
-cd \TransferMate\transfermate\
-php run.php
-```
+MVC Web: https://github.com/Stefan-Chonov/TransferMate/tree/main/transfermate_web
